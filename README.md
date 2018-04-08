@@ -2,3 +2,4 @@
 testowe
 
 asdf
+linijka z mastera
